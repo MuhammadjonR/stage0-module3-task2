@@ -11,6 +11,6 @@ public class advancedNamingConvention {
     }
 
     void callByNumber(int Number) {
-        System.out.print(Number);
+        System.out.print(adult_age);
     }
 }
